@@ -18,7 +18,7 @@ This is a simple Flask application for a blog site. Users can register, log in, 
 2. Change into the project directory:
    
    ```bash
-    cd flask-blog
+    cd blogging-site
    
 3. Install dependencies:
 
