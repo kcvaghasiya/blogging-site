@@ -25,6 +25,12 @@ This is a simple Flask application for a blog site. Users can register, log in, 
    ```bash
    pip install -r requirements.txt
 
+## Screenshots
+![Home page](home-1.png)
+![New Post](new-post.png)
+![Edit Post](edit-post_1.png)
+
+
 
 ## Configuration
 
